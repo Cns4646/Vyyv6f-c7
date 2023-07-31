@@ -1,5 +1,5 @@
 [ { "#":"","title":"Mizzima TV", "img":"https://i.ytimg.com/vi/atvjVoYfBEw/hqdefault.jpg", "link":"https://mizzima-live.b-cdn.net/live2_720.m3u8",""},
-{ "#":"","title":"Mrtv-4", "img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg", "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",""}, 
+{ "#":"","title":"Mrtv-4", "img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg", "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",""},
 { "#":"","title":"Channel 7", "img":"http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg", "link":"http://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",""},
 { "#":"","title":"Maharbawdi", "img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg", "link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",""}, 
 { "#":"","title":"Channel K", "img":"https://i.ibb.co/XLhTPGk/channelk.png", "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8" },
